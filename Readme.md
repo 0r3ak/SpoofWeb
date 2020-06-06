@@ -38,5 +38,7 @@ Python-2.7.11 + Nginx-1.12.1 + Mysql-5.5.61 + PHP-5.5.38 + Certbot
 ![demo](HTTPSSpoofWeb10.png)
 ![demo](HTTPSSpoofWeb6.png)
 ![demo](HTTPSSpoofWeb11.png)
+
+#### 账号密码接收效果
 ![demo](HTTPSSpoofWeb14.png)
 
